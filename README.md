@@ -13,8 +13,8 @@ Hi, my name is Caner and I'm 16. I started software development 1 year ago with 
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/585538770196103168" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/vicexrd" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://discord.com/users/585538770196103168" target="_blank"><img src="https://shields.io/badge/vicexrd-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://github.com/vicexrd" target="_blank"><img src="https://shields.io/badge/vicexrd-111111.svg?&style=for-the-badge&logo=github"></a>
 </div>
 
 ## 💻 Technologies I Use
